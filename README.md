@@ -4,7 +4,7 @@ This is a manual installation guide for those who have problems installing dlib 
 # WINDOWS
 1. Download this repo and got to file location
 2. Navigate to the project repo and open cmd in there.
-3. While in the project folder via cmd type ```ip install dlib-19.19.0-cp38-cp38-win_amd64.whl```
+3. While in the project folder via cmd type ```pip install dlib-19.19.0-cp38-cp38-win_amd64.whl```
 4. That's it dlib will be succesfully installed
 
 # UBUNTU
