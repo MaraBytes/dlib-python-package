@@ -8,6 +8,7 @@ This is a manual installation guide for those who have problems installing dlib 
 4. That's it dlib will be succesfully installed
 # Screenshot
 <img src="https://github.com/Oyopiz/dlib-python-package/blob/master/scrn/notme.png" alt="Your image title" width="550"/>
+![alt text](https://github.com/Oyopiz/dlib-python-package/blob/master/scrn/notme.png)
 # UBUNTU
  *1)* Assign root permission and update ubuntu first
 
